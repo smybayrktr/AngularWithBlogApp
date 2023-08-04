@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{C0FC58FE-351C-463C-93CC-59C3B789D7EF}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/WebApi/BlogApp.WebApi/Controllers/BlogsController.cs">
+    <Files>
+      <File FileName="src/Infrastructure/BlogApp.Infrastructure/Data/SeedData.cs" />
+      <File FileName="src/WebApi/BlogApp.WebApi/appsettings.json" />
+      <File FileName="src/WebApi/BlogApp.WebApi/appsettings.Development.json" />
+      <File FileName="src/Infrastructure/BlogApp.Infrastructure/Repositories/IEntityRepository.cs" />
+      <File FileName="src/Infrastructure/BlogApp.Infrastructure/Repositories/IUserRepository.cs" />
+      <File FileName="src/Infrastructure/BlogApp.Infrastructure/Repositories/ISavedBlogRepository.cs" />
+      <File FileName="src/Infrastructure/BlogApp.Infrastructure/Repositories/ICategoryRepository.cs" />
+      <File FileName="src/Infrastructure/BlogApp.Infrastructure/Repositories/EntityFramework/EfEntityRepositoryBase.cs" />
+      <File FileName="src/Application/BlogApp.Services/Repositories/Auth/AuthService.cs" />
+      <File FileName="src/Application/BlogApp.Services/Repositories/Email/EmailService.cs" />
+      <File FileName="src/Application/BlogApp.Services/Repositories/Schedule/ScheduleService.cs" />
+      <File FileName="src/WebApi/BlogApp.WebApi/Controllers/BlogsController.cs" Line="29" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogApp">
+            <Node name="src" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="BlogApp.Services" expanded="True">
+                  <Node name="Repositories" expanded="True">
+                    <Node name="AppUser" expanded="True" />
+                    <Node name="Auth" expanded="True" />
+                    <Node name="Blog" expanded="True" />
+                    <Node name="Email" expanded="True" />
+                    <Node name="Schedule" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Core" expanded="True">
+                <Node name="BlogApp.Core" expanded="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True">
+                <Node name="BlogApp.Infrastructure" expanded="True">
+                  <Node name="Data" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="WebApi" expanded="True">
+                <Node name="BlogApp.WebApi" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="BlogsController.cs" selected="True" />
+                  </Node>
+                  <Node name="appsettings.json" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.WebApi.BlogApp.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

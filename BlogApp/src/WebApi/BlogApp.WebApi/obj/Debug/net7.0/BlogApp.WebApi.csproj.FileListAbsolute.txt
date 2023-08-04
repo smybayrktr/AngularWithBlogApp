@@ -1,0 +1,600 @@
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.deps.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.runtimeconfig.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.AuthenticationApi.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Castle.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.AspNetCore.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/HangfireBasicAuthenticationFilter.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.NetCore.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.SqlServer.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MailKit.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MimeKit.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/ca/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/de/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/es/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fa/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fr/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nb/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nl/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-BR/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-PT/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/sv/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/tr-TR/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh-TW/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.BlogApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/scopedcss/bundle/BlogApp.WebApi.styles.css
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CopyComplete
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/refint/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.genruntimeconfig.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/ref/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.staticwebassets.runtime.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.staticwebassets.runtime.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.deps.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.runtimeconfig.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.AuthenticationApi.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Castle.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.AspNetCore.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/HangfireBasicAuthenticationFilter.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.NetCore.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.SqlServer.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MailKit.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MimeKit.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/ca/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/de/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/es/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fa/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fr/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nb/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nl/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-BR/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-PT/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/sv/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/tr-TR/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh-TW/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.AssemblyReference.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfoInputs.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CoreCompileInputs.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.BlogApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BlogApp.WebApi.props
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlogApp.WebApi.props
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlogApp.WebApi.props
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/scopedcss/bundle/BlogApp.WebApi.styles.css
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CopyComplete
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/refint/BlogApp.WebApi.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.genruntimeconfig.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/ref/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.staticwebassets.runtime.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.deps.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.runtimeconfig.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.AuthenticationApi.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Castle.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.AspNetCore.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/HangfireBasicAuthenticationFilter.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.NetCore.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.SqlServer.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MailKit.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MimeKit.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/ca/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/de/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/es/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fa/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fr/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nb/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nl/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-BR/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-PT/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/sv/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/tr-TR/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh-TW/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.BlogApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/scopedcss/bundle/BlogApp.WebApi.styles.css
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CopyComplete
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/refint/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.genruntimeconfig.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/ref/BlogApp.WebApi.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.staticwebassets.runtime.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.deps.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.runtimeconfig.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.AuthenticationApi.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Castle.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.AspNetCore.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/HangfireBasicAuthenticationFilter.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.NetCore.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.SqlServer.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MailKit.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MimeKit.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/ca/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/de/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/es/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fa/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fr/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nb/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nl/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-BR/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-PT/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/sv/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/tr-TR/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh-TW/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh/Hangfire.Core.resources.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.AssemblyReference.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfoInputs.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CoreCompileInputs.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.BlogApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BlogApp.WebApi.props
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlogApp.WebApi.props
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlogApp.WebApi.props
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/scopedcss/bundle/BlogApp.WebApi.styles.css
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CopyComplete
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/refint/BlogApp.WebApi.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.genruntimeconfig.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/ref/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/appsettings.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.staticwebassets.runtime.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.deps.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.runtimeconfig.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.AuthenticationApi.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Auth0.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Castle.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.AspNetCore.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/HangfireBasicAuthenticationFilter.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.NetCore.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Hangfire.SqlServer.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MailKit.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/MimeKit.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/ca/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/de/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/es/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fa/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/fr/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nb/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/nl/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-BR/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt-PT/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/pt/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/sv/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/tr-TR/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh-TW/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/zh/Hangfire.Core.resources.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.BlogApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlogApp.WebApi.props
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/scopedcss/bundle/BlogApp.WebApi.styles.css
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.csproj.CopyComplete
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/refint/BlogApp.WebApi.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/BlogApp.WebApi.genruntimeconfig.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/WebApi/BlogApp.WebApi/obj/Debug/net7.0/ref/BlogApp.WebApi.dll

@@ -1,0 +1,25 @@
+<div style="display:flex; flex-direction: column; flex-wrap: wrap;">
+  <div>
+    <div class="col-md-6" *ngFor="let blog of blogList">
+      <div class="fh5co-blog animate-box">
+        <div class="title text-center">
+          <span class="category">{{blog.createdAt | date:'MMMM dd yyyy'}}</span>
+        </div>
+        <a [routerLink]="['/blogs-detail', blog.url]"><img class="img-responsive" src={{blog.image}} alt=""/></a>
+        <div class="blog-text text-center">
+          <p>
+            {{blog.body | slice:0:30}}... 
+          </p>
+          <div style="position: absolute; right: 10px; bottom: 10px;">
+            <a (click)="saveAction(blog)">
+              <img src="{{blog.bookmarkImage}}" alt="bookmark">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="pagination" style="display: flex; justify-content: center; gap: 12px;">
+    <button *ngFor="let page of totalPages" (click)="onPageChange(page)" class="pagination-bullet">{{ page }}</button>
+  </div>
+</div>

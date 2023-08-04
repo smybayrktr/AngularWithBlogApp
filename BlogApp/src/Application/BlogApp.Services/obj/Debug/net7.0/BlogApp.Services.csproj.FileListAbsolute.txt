@@ -1,0 +1,105 @@
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.deps.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CopyComplete
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/refint/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Application/BlogApp.Services/obj/Debug/net7.0/ref/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.deps.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.AssemblyReference.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfoInputs.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CoreCompileInputs.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CopyComplete
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/refint/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/ref/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.deps.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CopyComplete
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/refint/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/ref/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.deps.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.AssemblyReference.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfoInputs.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CoreCompileInputs.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CopyComplete
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/refint/BlogApp.Services.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/ref/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.deps.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Infrastructure.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.DataTransferObjects.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.csproj.CopyComplete
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/refint/BlogApp.Services.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/BlogApp.Services.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Application/BlogApp.Services/obj/Debug/net7.0/ref/BlogApp.Services.dll

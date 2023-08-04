@@ -1,0 +1,15 @@
+<div style="padding:50px" class="fh5co-blog animate-box">
+    <div class="title text-center">
+      <span class="posted-on">{{blogDetail?.createdAt}}</span>
+      <h3><a>{{blogDetail?.title}}</a></h3>
+      <span class="category"></span>
+    </div>
+    <a style="display:flex; justify-content:center">
+      <img style="max-width:500px" class="img-responsive" [src]="blogDetail?.image" alt="">
+    </a>
+    <div class="blog-text text-center">
+      <p>{{blogDetail?.body}}</p>
+      <div class="mb-60"></div>
+    </div>
+  </div>
+  

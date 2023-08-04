@@ -1,0 +1,33 @@
+<div id="fh5co-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-padded-right">
+        <div class="row">
+          <div class="col-md-6" *ngFor="let blog of myBlog">
+            <div class="fh5co-blog animate-box">
+              <div class="title text-center">
+                <span class="category">{{blog.createdAt | date:'MMMM dd yyyy'}}</span>
+              </div>
+              <a [routerLink]="['/blogs-detail', blog.url]"><img class="img-responsive" src={{blog.image}} alt="" /></a>
+              <div class="blog-text text-center">
+                <p>
+                  {{blog.body | slice:0:30}} ...
+                </p>
+                <div style="position: absolute; right: 10px; bottom: 10px;">
+                  <a (click)="delete(blog.id)">
+                    <img src="assets/images/delete.png" alt="delete">
+                  </a>
+                </div>
+                <div style="position: absolute; left: 10px; bottom: 10px;">
+                  <a [routerLink]="['/blogs-update',blog.id]">
+                    <img src="assets/images/edit.png" alt="edit">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

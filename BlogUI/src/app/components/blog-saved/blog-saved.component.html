@@ -1,0 +1,14 @@
+<div class="col-md-6" *ngFor="let blog of savedBlog">
+    <div class="fh5co-blog animate-box">
+      <div class="title text-center">
+        <span class="category">{{blog.createdAt}}</span>
+      </div>
+      <a href="#"><img class="img-responsive" src={{blog.image}} alt=""/></a>
+      <div class="blog-text text-center">
+        <p>
+          {{blog.body | slice:0:30}} ... 
+        </p>
+      </div>
+    </div>
+  </div>
+  

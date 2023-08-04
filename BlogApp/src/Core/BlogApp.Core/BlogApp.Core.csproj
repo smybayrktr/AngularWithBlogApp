@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\IoC\" />
+    <None Remove="Utilities\UploadHelper\" />
+    <None Remove="Constants\" />
+    <None Remove="Utilities\Results\" />
+    <None Remove="Utilities\Helpers\" />
+    <None Remove="Utilities\Helpers\DateHelper\" />
+    <None Remove="Utilities\Helpers\EmailHelper\" />
+    <None Remove="Utilities\Helpers\FileHelper\" />
+    <None Remove="Utilities\Helpers\StringHelper\" />
+    <None Remove="Utilities\Helpers\UrlHelper\" />
+    <None Remove="Utilities\Jwt\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\IoC\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Utilities\Results\" />
+    <Folder Include="Utilities\Helpers\" />
+    <Folder Include="Utilities\Helpers\EmailHelper\" />
+    <Folder Include="Utilities\Helpers\FileHelper\" />
+    <Folder Include="Utilities\Helpers\StringHelper\" />
+    <Folder Include="Utilities\Helpers\UrlHelper\" />
+    <Folder Include="Utilities\Jwt\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
+    <PackageReference Include="MimeKit" Version="4.0.0" />
+    <PackageReference Include="Auth0.AuthenticationApi" Version="7.20.0" />
+  </ItemGroup>
+</Project>

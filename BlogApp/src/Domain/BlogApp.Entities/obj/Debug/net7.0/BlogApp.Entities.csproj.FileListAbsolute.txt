@@ -1,0 +1,75 @@
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.deps.json
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CopyComplete
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/refint/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/BlogAppWithAngular/src/Domain/BlogApp.Entities/obj/Debug/net7.0/ref/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.deps.json
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.AssemblyReference.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfoInputs.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CoreCompileInputs.cache
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CopyComplete
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/refint/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/ref/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.deps.json
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CopyComplete
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/refint/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/ref/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.deps.json
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.AssemblyReference.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfoInputs.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfo.cs
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CoreCompileInputs.cache
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CopyComplete
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/refint/BlogApp.Entities.dll
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.pdb
+/Users/berkayy/Desktop/SUM/blogapp sum/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/ref/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.deps.json
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/bin/Debug/net7.0/BlogApp.Core.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.AssemblyReference.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfoInputs.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.AssemblyInfo.cs
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CoreCompileInputs.cache
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.csproj.CopyComplete
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/refint/BlogApp.Entities.dll
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/BlogApp.Entities.pdb
+/Users/smybayrktr/Desktop/blogapp/BlogApp/src/Domain/BlogApp.Entities/obj/Debug/net7.0/ref/BlogApp.Entities.dll

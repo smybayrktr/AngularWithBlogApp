@@ -1,0 +1,26 @@
+<h3 style="display: flex; justify-content: center;">Giriş Yap</h3>
+<hr />
+<div class="row" style="display: flex; justify-content: center;">
+    <div class="col-md-4">
+        <form [formGroup]="loginForm" (ngSubmit)="login()">
+            <div class="form-group">
+                <label class="control-label" formControlName="email" required>Email</label>
+                <input type="email" class="form-control" formControlName="email" required/>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" formControlName="password" required>Şifre</label>
+                <input type="password" class="form-control" formControlName="password" required/>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Giriş Yap" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<div>
+    <a routerLink="/register" style="display: flex; justify-content: center;">Üye değil misiniz?. Şimdi Üye Olun.</a>
+</div>

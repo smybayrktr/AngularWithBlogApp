@@ -1,0 +1,35 @@
+<h3 style="display: flex; justify-content: center;">Üye Ol</h3>
+<hr />
+<div class="row" style="display: flex; justify-content: center;">
+    <div class="col-md-4">
+        <form [formGroup]="registerForm" (ngSubmit)="register()">
+            <div class="form-group">
+                <label class="control-label" formControlName="name" required>İsim</label>
+                <input class="form-control" formControlName="name" required/>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" formControlName="lastname" required>Soyisim</label>
+                <input class="form-control" formControlName="lastname" required/>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" formControlName="email" required>Email</label>
+                <input type="email" class="form-control" formControlName="email" required/>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" formControlName="password" required>Şifre</label>
+                <input type="password" class="form-control" formControlName="password" required/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Üye Ol" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a routerLink="/login" style="display: flex; justify-content: center;">Zaten üye misiniz? Giriş Yapın. </a>
+</div>
